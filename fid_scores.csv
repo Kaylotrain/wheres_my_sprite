@@ -1,0 +1,25 @@
+Reference Dataset,Comparison Dataset,FID Score
+god_images/,bad_images,1.3096080139214274
+god_images/,mid_images,1.2102986535581959
+god_images/,good_images,0.0644089606824485
+animations_god/block,animations_bad/block,0.3620809843481474
+animations_god/crouch,animations_bad/crouch,0.24809072534158094
+animations_god/idle,animations_bad/idle,0.3687182764033028
+animations_god/jump,animations_bad/jump,0.3600432366046835
+animations_god/receive_crouching_damage,animations_bad/receive_crouching_damage,0.5460785975116766
+animations_god/receive_standing_damage,animations_bad/receive_standing_damage,0.4377162106002228
+animations_god/run,animations_bad/run,0.4165631616298262
+animations_god/block,animations_mid/block,0.4006902488466879
+animations_god/crouch,animations_mid/crouch,0.23887228454659493
+animations_god/idle,animations_mid/idle,0.42940686048373045
+animations_god/jump,animations_mid/jump,0.3300830364657852
+animations_god/receive_crouching_damage,animations_mid/receive_crouching_damage,0.35899487964466037
+animations_god/receive_standing_damage,animations_mid/receive_standing_damage,0.35639360840505585
+animations_god/run,animations_mid/run,0.27678473440190343
+animations_god/block,animations_good/block,0.036757505340095475
+animations_god/crouch,animations_good/crouch,0.022173083576609076
+animations_god/idle,animations_good/idle,0.027072086620160363
+animations_god/jump,animations_good/jump,0.02395728723831403
+animations_god/receive_crouching_damage,animations_good/receive_crouching_damage,0.03207190926720305
+animations_god/receive_standing_damage,animations_good/receive_standing_damage,0.028824698622232692
+animations_god/run,animations_good/run,0.019140422604465357

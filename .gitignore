@@ -13,6 +13,12 @@ develop-eggs/
 dist/
 outputs/
 downloads/
+good_images/
+bad_images/
+mid_images/
+god_images/
+animations*/
+datasets/
 eggs/
 .eggs/
 lib/

@@ -30,6 +30,11 @@ Example 2:
 "positive": "(white background) a nordic male warrior , white short hair, lethear armor",
 "negative": "weapons, shields, shadows"
 }
+Example 3:
+{
+"positive": "(white background) an orc, green skin, black hair, red eyes",
+"negative": "weapons, shields, shadows"
+}
 """
 POSES_IMAGE_PATH = "poses.png"
 
